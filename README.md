@@ -63,3 +63,10 @@ output:<br/>
 3.<BR/>
 ![Screenshot (110)](https://user-images.githubusercontent.com/112576522/194215458-50bcd652-da82-4721-88ea-e34b45d6571c.png)
 
+##EXP-7-LINL-https://github.com/Shaiksammera/CSA0525-DBMS/blob/main/EXP-7
+1,<BR/>
+![Screenshot (113)](https://user-images.githubusercontent.com/112576522/194216111-09613eb7-9002-4057-84c5-b7058d7cb1fb.png)
+2.<BR/>
+![Screenshot (114)](https://user-images.githubusercontent.com/112576522/194216227-604199c8-8bae-4f03-a54c-47888dff2592.png)
+3.<BR/>
+![Screenshot (114)](https://user-images.githubusercontent.com/112576522/194216411-71234b9f-f1ba-4520-9777-758940a73537.png)
