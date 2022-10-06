@@ -86,3 +86,7 @@ output:<br/>
 ##EXP-10-LINK-https://github.com/Shaiksammera/CSA0525-DBMS/blob/main/EXP-10
 1.<BR/>
 ![Screenshot (122)](https://user-images.githubusercontent.com/112576522/194260368-caadde46-4aad-4951-a2f6-5a111db27e5e.png)
+
+##EXP-11-LINK-https://github.com/Shaiksammera/CSA0525-DBMS/blob/main/EXP-11
+1.<BR/>
+![Screenshot (124)](https://user-images.githubusercontent.com/112576522/194263183-a754f712-95c4-4f22-a862-26b080cd12b9.png)
