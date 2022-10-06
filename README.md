@@ -79,7 +79,10 @@ output:<br/>
 3.<BR/>
 ![Screenshot (118)](https://user-images.githubusercontent.com/112576522/194217279-33be4f7d-57e4-459b-8aff-a6d468469d84.png)
 
-##EXP-9-LINL-https://github.com/Shaiksammera/CSA0525-DBMS/new/main
+##EXP-9-LINK-https://github.com/Shaiksammera/CSA0525-DBMS/new/main
 1.<BR/>
 ![Screenshot (120)](https://user-images.githubusercontent.com/112576522/194218122-331193fe-106b-426a-9597-47f05cff0f56.png)
 
+##EXP-10-LINK-https://github.com/Shaiksammera/CSA0525-DBMS/blob/main/EXP-10
+1.<BR/>
+![Screenshot (122)](https://user-images.githubusercontent.com/112576522/194260368-caadde46-4aad-4951-a2f6-5a111db27e5e.png)
