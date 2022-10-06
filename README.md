@@ -28,3 +28,21 @@ output:<br/>
 4.<br/>
 ![Screenshot (73)](https://user-images.githubusercontent.com/112576522/193872775-84d1bfaf-14e6-4a80-87d5-6658127ca428.png)
 
+##EXP-4 LINK-https://github.com/Shaiksammera/CSA0525-DBMS/blob/main/EXP-4
+output:<br/>
+1.<br/>
+![Screenshot (90)](https://user-images.githubusercontent.com/112576522/194212050-3335a0fb-e23d-4944-ae5c-c5cb4eb0d48c.png)
+2.<br/>
+![Screenshot (91)](https://user-images.githubusercontent.com/112576522/194212173-0b3a8304-28a4-4af7-9303-7946a31058ea.png)
+3.<br/>
+![Screenshot (92)](https://user-images.githubusercontent.com/112576522/194212474-ffa13399-55ac-4d49-8213-42c038d76c8c.png)
+4.<br/>
+![Screenshot (93)](https://user-images.githubusercontent.com/112576522/194212593-f20aa126-d03f-4d0a-acc8-f638e1a59572.png)
+5.<br/>
+![Screenshot (94)](https://user-images.githubusercontent.com/112576522/194212709-2431ac9e-d059-43c8-982d-a089703155f3.png)
+6.<br/>
+![Screenshot (95)](https://user-images.githubusercontent.com/112576522/194212786-e74ef442-30af-42ab-bf26-6b5952ba86e3.png)
+7.<br/>
+![Screenshot (96)](https://user-images.githubusercontent.com/112576522/194212906-5029756e-06d8-417d-8801-ab882970e858.png)
+8.<br/>
+![Screenshot (97)](https://user-images.githubusercontent.com/112576522/194213001-d2990f60-b893-40b6-bcb5-a69b32a03509.png)
