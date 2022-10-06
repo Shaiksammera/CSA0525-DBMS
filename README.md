@@ -54,3 +54,12 @@ output:<br/>
 ![Screenshot (105)](https://user-images.githubusercontent.com/112576522/194214557-bcb24564-ec0c-45b8-a878-557937db8fc9.png)
 3,<BR/>
 ![Screenshot (106)](https://user-images.githubusercontent.com/112576522/194214660-370666be-344c-4450-8414-1c45c230c1c9.png)
+
+##EXP-6-LINK-https://github.com/Shaiksammera/CSA0525-DBMS/blob/main/EXP-6
+1.<BR/>
+![Screenshot (108)](https://user-images.githubusercontent.com/112576522/194215209-883b8bf8-9db6-4644-b9e1-16d368f4d4d3.png)
+2.<BR/>
+![Screenshot (109)](https://user-images.githubusercontent.com/112576522/194215305-2d673678-bfff-4106-8c59-ab3b10313884.png)
+3.<BR/>
+![Screenshot (110)](https://user-images.githubusercontent.com/112576522/194215458-50bcd652-da82-4721-88ea-e34b45d6571c.png)
+
