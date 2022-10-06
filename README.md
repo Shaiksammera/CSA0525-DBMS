@@ -70,3 +70,13 @@ output:<br/>
 ![Screenshot (114)](https://user-images.githubusercontent.com/112576522/194216227-604199c8-8bae-4f03-a54c-47888dff2592.png)
 3.<BR/>
 ![Screenshot (114)](https://user-images.githubusercontent.com/112576522/194216411-71234b9f-f1ba-4520-9777-758940a73537.png)
+
+##EXP-8-LINK-https://github.com/Shaiksammera/CSA0525-DBMS/blob/main/EXP-8
+1.<BR/>
+![Screenshot (116)](https://user-images.githubusercontent.com/112576522/194216939-85f479db-f7f5-434d-a13f-36c790e45764.png)
+2.<BR/>
+![Screenshot (117)](https://user-images.githubusercontent.com/112576522/194217073-e68b9ade-69a7-46d7-ba28-dc99c50f0fd8.png)
+3.<BR/>
+![Screenshot (118)](https://user-images.githubusercontent.com/112576522/194217279-33be4f7d-57e4-459b-8aff-a6d468469d84.png)
+
+
