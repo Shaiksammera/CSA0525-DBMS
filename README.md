@@ -120,3 +120,9 @@ output:<br/>
 ![Screenshot (139)](https://user-images.githubusercontent.com/112576522/194684682-1d94e8ff-cb6b-4577-8352-94514b0854f2.png)
 2.<BR/>
 ![Screenshot (140)](https://user-images.githubusercontent.com/112576522/194684719-cef7ac83-719d-4adc-9adb-49c773a63b23.png)
+
+##EXP-23-LINK-https://github.com/Shaiksammera/CSA0525-DBMS/blob/main/EXP-23
+1.<BR/>
+![Screenshot (142)](https://user-images.githubusercontent.com/112576522/194684866-2c060294-9ca4-408f-ba3c-74f4258665ed.png)
+2.<BR/>
+![Screenshot (143)](https://user-images.githubusercontent.com/112576522/194684904-ad5ad201-dcc3-49ad-96fe-5b23ff121db3.png)
