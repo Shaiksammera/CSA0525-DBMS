@@ -108,3 +108,10 @@ output:<br/>
 ##EXP-16-LINK-https://github.com/Shaiksammera/CSA0525-DBMS/blob/main/EXP-16
 1.<BR/>
 ![Screenshot (133)](https://user-images.githubusercontent.com/112576522/194274409-0f397198-b8ef-496f-9828-4f4c6d9dcb95.png)
+
+##EXP-17-LINL-https://github.com/Shaiksammera/CSA0525-DBMS/blob/main/EXP-17
+1.<BR/>
+![Screenshot (136)](https://user-images.githubusercontent.com/112576522/194684519-65d743ce-72be-4f71-a057-fc352eb478db.png)
+2.<BR/>
+![Screenshot (137)](https://user-images.githubusercontent.com/112576522/194684558-cddee13f-9f1b-41cd-9425-327f2594a582.png)
+
