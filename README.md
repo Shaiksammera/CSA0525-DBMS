@@ -95,6 +95,10 @@ output:<br/>
 1.<BR/>
 ![Screenshot (126)](https://user-images.githubusercontent.com/112576522/194267294-21b3a653-69fd-4927-9a0a-3b7cac3fa6fd.png)
 
+##EXP-13-LINK-https://github.com/Shaiksammera/CSA0525-DBMS/blob/main/EXP-13
+1.<BR/>
+![image](https://user-images.githubusercontent.com/112576522/194686162-0e34ec49-b459-4a20-ab52-e9a5c8d99ab1.png)
+
 ##EXP-14-LINK-https://github.com/Shaiksammera/CSA0525-DBMS/blob/main/EXP-14
 1.<BR/>
 ![Screenshot (128)](https://user-images.githubusercontent.com/112576522/194269341-02aca13e-bed3-48c5-b937-912df746ffe5.png)
