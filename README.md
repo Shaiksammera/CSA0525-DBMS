@@ -147,3 +147,10 @@ output:<br/>
 2
 ![image](https://user-images.githubusercontent.com/112576522/194685727-ab8577a4-3774-4286-9af8-44a4d2bc57ef.png)
 
+##EXP-25-LINK-https://github.com/Shaiksammera/CSA0525-DBMS/blob/main/EXP-25
+1.<BR/>
+![image](https://user-images.githubusercontent.com/112576522/194685955-08c8fae6-d911-47e8-9d6e-3cae0d7e1c15.png)
+2.<BR/>
+![image](https://user-images.githubusercontent.com/112576522/194685968-da99d9c0-7d8b-4662-acdb-139141b7ee98.png)
+3.<BR/>
+![image](https://user-images.githubusercontent.com/112576522/194685978-5d5c678e-b13d-4eb8-9f12-849852a204b3.png)
