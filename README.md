@@ -115,3 +115,8 @@ output:<br/>
 2.<BR/>
 ![Screenshot (137)](https://user-images.githubusercontent.com/112576522/194684558-cddee13f-9f1b-41cd-9425-327f2594a582.png)
 
+##EXP-18-LINL-https://github.com/Shaiksammera/CSA0525-DBMS/blob/main/EXP-18
+1.<BR/>
+![Screenshot (139)](https://user-images.githubusercontent.com/112576522/194684682-1d94e8ff-cb6b-4577-8352-94514b0854f2.png)
+2.<BR/>
+![Screenshot (140)](https://user-images.githubusercontent.com/112576522/194684719-cef7ac83-719d-4adc-9adb-49c773a63b23.png)
