@@ -129,6 +129,13 @@ output:<br/>
 3.<BR/>
 ![image](https://user-images.githubusercontent.com/112576522/194685442-a3684fe3-95a9-48f1-8557-67be2ed8a7ed.png)
 
+##EXP-22-LINK-https://github.com/Shaiksammera/CSA0525-DBMS/blob/main/EXP-22
+1.<BR/>
+![image](https://user-images.githubusercontent.com/112576522/194685574-76dc590b-5718-41c0-a129-1ab53ab1504a.png)
+2.<BR/>
+![image](https://user-images.githubusercontent.com/112576522/194685588-50b4c1c0-c149-43b9-aa62-a76c150295b2.png)
+
+
 
 ##EXP-23-LINK-https://github.com/Shaiksammera/CSA0525-DBMS/blob/main/EXP-23
 1.<BR/>
